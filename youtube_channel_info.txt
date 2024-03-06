@@ -2,7 +2,10 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-aqua | Hololive | https://i.imgur.com/ciCyY7b.png |
-https://www.youtube.com/MinatoAqua/live
+Aqua | Hololive | https://i.imgur.com/ciCyY7b.png |
+https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg/live
+
+Ayunda Risu Ch | Hololive-ID | https://i.imgur.com/nBccCJF.jpeg |
+https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw/live
 
 
