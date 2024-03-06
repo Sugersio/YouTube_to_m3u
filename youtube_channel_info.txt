@@ -2,7 +2,7 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-aqua | Hololive | https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png |
+aqua | Hololive | https://i.imgur.com/ciCyY7b.png |
 https://www.youtube.com/MinatoAqua/live
 
 
