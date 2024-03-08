@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/ciCyY7b.png" tvg-id="", Aqua
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709919124/ei/NPfqZbiyJa29ybgPk-214AY/ip/172.183.84.73/id/4v5OKpIPfgg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fzITVqI6iIv7WaOKY2CbBKDRp7ODfvqstjStlI5vLeFZEx0DBrqtRA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOOCOtaTG9rR9tQD3RaaFgQ7_ZE6jEMv7mkWr_lnc-lNAiB_XWNBmFb-SaKZXb0bu-gjoiwBVX3viRIwut2ln4Rilg%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709919687/ei/Z_nqZcKnHruN_9EP9eC8iAs/ip/74.249.6.30/id/4v5OKpIPfgg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fwv1ilzjAPjBJ5Y1zt1aSEIBLbB4FHv35XTsnqWvlxs/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhANeAwjgQyBCh2iWnvFH8pBFIDj3qGj7wspx3ex5Mc2pXAiBi0rzWvTil6TrY4uErq8VG3wMX_wGMsfYol8lQnCLfxQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/nBccCJF.jpeg" tvg-id="", Ayunda Risu Ch
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/2nrGiY4.jpeg" tvg-id="", 白上フブキ
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709919126/ei/NvfqZeCiIpCb2_gPos63wAo/ip/172.183.84.73/id/Azf9zvGVi-Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f82evrQlKeu6M9CbKBGVvM57X-ffNEnHUrOE9fxvHXA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgRyeSuZ8gboabw4GyL03xTzUyzzohrhfiGIhhurydADYCIBSP8dOUozLw6JL9W63gAa7KgG7xPY_EdwNO1iR6GnEx/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709919689/ei/afnqZfyVF4uJ_9EP06GeqAI/ip/74.249.6.30/id/Azf9zvGVi-Y.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f1Dxh-MqQDTiBwAFHLfHSeffKZZ-4L9o3FYybGn0-sw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJLkaZj2NnC6aArfY3L9DS_jVWc-ZmiKzeUq48NVWozpAiAjz5d5PgMUNXwcxjDeaXEL-L17X7T6P5CIA88s0jcCMg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="神椿" tvg-logo="https://yt3.googleusercontent.com/4j4P2YyTvdVi2Xm5JgWk2nQk26Q0RNydXcG17j0_lmhKZsG5lWDJCKDK_9vEO16tmQmuIEvxyQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", ヰ世界情緒
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
