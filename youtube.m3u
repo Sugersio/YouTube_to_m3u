@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/nBccCJF.jpeg" tvg-id="", Ayunda Risu Ch
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709885060/ei/JHLqZf6BDsOR2_gPsL6ogAM/ip/172.183.131.104/id/LGa8mmisITM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f3C8-cQpcXocGeXVpF1jftMGixhyNPcw6WpKQx7mk04/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgci-uzXcJp4vtkq428npUUhnCHnBlF19zo-G2vH4Nf4wCIEkLiCj4QX8KFo1Ojsh_z6cMey0VdPIUr5LMN431UmFF/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1709886368/ei/QHfqZZ3gKoSMir4PoPireA/ip/172.183.161.212/id/LGa8mmisITM.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066117/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/maudio/1/spc/UWF9f0uNYzfkRaH4En9s8q-aNinmEueZwJ69LOzFzBYTrTk/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIBcYbffwdOD-v3OUwKwJR1HeX_Ec-ayuAAy4qVH9nyBAiEAwneoZdcX1tRXK_I7YRJcNd-hMXP0Ygg5PmUAVddR_AU%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", 天音かなた
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
