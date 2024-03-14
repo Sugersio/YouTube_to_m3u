@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/ciCyY7b.png" tvg-id="", Aqua
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710443303/ei/x_byZfW3GaOLsfIPt-aomAc/ip/52.238.24.188/id/mD6XfLwXZGQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1EQq1LVeQAgm8UNV1IFFSAi0rNG1I_cgatXF0-w2ro/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ9QDlUIYYY4LYbX20RJhM50wczobnhGxvyWSch4Xcs_AiEAl_BfEbgHBuD7CpJQdvodRvEOFzqJPCXKk4CQR5UM2BM%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/nBccCJF.jpeg" tvg-id="", Ayunda Risu Ch
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/2nrGiY4.jpeg" tvg-id="", 白上フブキ
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710443306/ei/yvbyZbXUHKiQsfIPq8Kv4Aw/ip/52.238.24.188/id/Ck9ozLWy64s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fzaUKBiFR_ihideB7fWCBeas-pxYXwOR35QTla0rr7s/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgQeen49L72oe0rjeUlDg_EWApar1EdyEbrDsBZq_X1NwCIF_JsfY2alVflNPscAPMbE2dq-NvXe5tXZGowOACukQq/file/index.m3u8
 
 #EXTINF:-1 group-title="神椿" tvg-logo="https://yt3.googleusercontent.com/4j4P2YyTvdVi2Xm5JgWk2nQk26Q0RNydXcG17j0_lmhKZsG5lWDJCKDK_9vEO16tmQmuIEvxyQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", ヰ世界情緒
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
