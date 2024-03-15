@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mr31MsIY88iCaX5rogIUiwEg6XoHbvfn_D0SXsjw=s176-c-k-c0x00ffffff-no-rj" tvg-id="", 星街すいせい
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1710518828/ei/yx30ZfifPL2H_9EP7qaKgAY/ip/20.97.191.143/id/SvTUanPZteA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9fxQom5tQuzFQQ_0c_fx7RCAH3LlrOLf8YRIcnl6CmzU/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgRQ9KbfPeAOJkeRePZ8x9dJ04P39YkP1tn9y1SgXZ11oCIQCG74xZjRN_xDpuK5fM9i9HjRGeEhhIC17yhsEj9x7Jmg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://yt3.googleusercontent.com/wIqM7MWDN94PoibzPmeog7WOt8jFKTKZBOBFEbLBaiUAdKLwoqdLC_CN7B7Gby-FWH-076rN=s176-c-k-c0x00ffffff-no-rj" tvg-id="", 夏色まつり
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
