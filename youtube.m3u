@@ -15,7 +15,7 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/nBccCJF.jpeg" tvg-id="", Ayunda Risu Ch
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711308709/ei/RSsAZszICpuFy_sPoLqYqAY/ip/20.81.46.169/id/i6gM0LLM9E0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/spc/UWF9f6KD9ogFZ6W3tMT5c6rmd9cCwXFseDlCYIKdrc02Vgw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJE6ocCENCJSK_sjy5bbvdutPvVjSdUrtlwbFc1ewb_NAiAKJAiGsVYZoQWqk1N9SEnpjrP1HDdWPzDW5HCiX3eExw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", 天音かなた
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
