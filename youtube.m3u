@@ -15,13 +15,13 @@
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/nBccCJF.jpeg" tvg-id="", Ayunda Risu Ch
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711914701/ei/bWoJZu_lD6aU_9EPkOyp8AY/ip/20.55.223.232/id/rIhtdUd_n74.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51118562/txs/51118561%2C51118562%2C51118563%2C51118564%2C51118565%2C51118566%2C51118567/hfr/1/maudio/1/spc/UWF9f48vCuNpT9INFpkBws3UQXZElmoH1_CN_V_E-0cn5XM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFFcF3XyGmxcf1GWg7E_3odCPJpQWl4ECR53M40Fb8ssCIBAoM5aLKUDMeqAHLr-6g-jP9Cx-tfcePhG0kwnNTEbV/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711915535/ei/r20JZsXTKYqW_9EPmu6o8Ao/ip/74.249.5.96/id/rIhtdUd_n74.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129852/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/maudio/1/spc/UWF9f_L24tLIDSGj6CDyZ4DNioFEN6b8FaRNhZGefWAGKe0eSfzEKg6p6w/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKkuU88aBjsFlMAAJZ08-A4uX7WpwtJHmXfcKm7cp8CoCIQDCbCL-VZJu0r0WCPJGnuK_S3F8uQ4afGtK4l8q21FRkA%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://yt3.googleusercontent.com/e5wX9w1xSFUjaUdyhFugYZKzDZ_KLTLWBgdtRohHQDu0pshH867pyOv6gLGuqkqy5Ik8bJ9MSZU=s176-c-k-c0x00ffffff-no-rj" tvg-id="", 天音かなた
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/2nrGiY4.jpeg" tvg-id="", 白上フブキ
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711915536/ei/sG0JZtO-KaS2_9EP_ce8-Ao/ip/74.249.5.96/id/qmuCJIrHpoI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51066118/txs/51066116%2C51066117%2C51066118%2C51066119%2C51066120%2C51066121/hfr/1/maudio/1/spc/UWF9f_WC213mwo9HoC5eCgDI99mOTLqFBUl44xr0tkOqwP1xv4JRDxnkkA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgX-hn9ujV-zJxTK5cxd2VPnefdEKOuVuXSaOR5u58J4sCIEhPYYAwz6qEKkDRuPizIaN8eQJCq9Ar6xh3iReFdRWg/file/index.m3u8
 
 #EXTINF:-1 group-title="神椿" tvg-logo="https://yt3.googleusercontent.com/4j4P2YyTvdVi2Xm5JgWk2nQk26Q0RNydXcG17j0_lmhKZsG5lWDJCKDK_9vEO16tmQmuIEvxyQ=s176-c-k-c0x00ffffff-no-rj" tvg-id="", ヰ世界情緒
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -33,7 +33,7 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://yt3.googleusercontent.com/Z2QpYUZ4-jKoFR7Ms330gRQzjI2gZ4CB_uVP6f39YysxUe1u8icrtE07ffpRxCtpu9U65MWNDA=s176-c-k-c0x00ffffff-no-rj" tvg-id="", 宝鐘マリン
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1711914706/ei/cmoJZpyxLrup_9EP8IWu4Aw/ip/20.55.223.232/id/Rw0Su-PwKfQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51129848/txs/51129847%2C51129848%2C51129849%2C51129850%2C51129851%2C51129852%2C51129853/hfr/1/maudio/1/spc/UWF9fytJZqZQym_GPAQMXtdkSIlq3f5XgkjS00VPq9MBoSY/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPUIT2CU2NUpZ0OQbuS34nY1CReMIVbjmxSWLak_LQt-AiA9sY6yoQ3qq5pBlpSGQAhYCh7q0VxD9WcA_8h9AANp1A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://yt3.googleusercontent.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s176-c-k-c0x00ffffff-no-rj" tvg-id="", Gawr Gura Ch
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
