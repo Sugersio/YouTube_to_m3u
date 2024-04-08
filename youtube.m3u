@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/ciCyY7b.png" tvg-id="", Aqua
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712589775/ei/b7cTZu3dGdq9_9EP28C52Ac/ip/20.102.46.147/id/R71ln2lwQBg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fxbYUh_7JcKP3GzXkrOPWFgAyjLk8UlP4mA-Y9FX4RnJ5W_U5r2GLw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJ12-DrNbYccpmQFyNoNpcACezHFjr5lcicV9szoFvV8CIC1sgh3y-H2w-Tg7gJXQKp_VH5jVh8z1e-tElOLpVij3/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1712590323/ei/k7kTZvfxL-3AsfIPkYKLwAw/ip/52.157.14.167/id/R71ln2lwQBg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f4uUou1-xLEUowzlfVq0FE6IkJ0QaFNRAnn0pDezMaWpV6jVBvs82Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/51141542/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOFDUqoYeJvx6IBL5-IxBPyApKx1XJ0xQn_kRxuqXsS4AiAQqBTbs5ljru_G0hCwh8ZJJ8pNGTUwSalkpvSjSv_ASg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Hololive" tvg-logo="https://i.imgur.com/nBccCJF.jpeg" tvg-id="", Ayunda Risu Ch
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
